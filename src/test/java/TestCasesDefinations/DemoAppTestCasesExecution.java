@@ -233,8 +233,6 @@ public class DemoAppTestCasesExecution extends Utilities{
 	    arr[5] = Double.parseDouble(demo.getWebtext(hpl.amountHeaderSixthValue).replaceAll("[a-zA-Z#$% ]", "").replaceAll(" ", "").replaceAll(",",""));
 	    Test.addScreenCaptureFromPath(demo.captureScreenshots());
 	    for(int i=0; i<arr.length-1; i++) {
-	        //in a sorted array current number should be 
-	        //always less than the next number in the array
 	        if(arr[i]>arr[i+1]) {
 	        	Test.log(Status.FAIL, "Sorting Failed");
 	        }
