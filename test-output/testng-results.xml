@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-02T04:45:58 PDT" name="Suite" finished-at="2023-11-02T04:46:08 PDT" duration-ms="9318">
+    <groups>
+    </groups>
+    <test started-at="2023-11-02T04:45:58 PDT" name="Test" finished-at="2023-11-02T04:46:08 PDT" duration-ms="9318">
+      <class name="TestCasesDefinations.DemoAppTestCasesExecution">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:45:57 PDT" name="beforeSuite" finished-at="2023-11-02T04:45:58 PDT" duration-ms="1418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="testCase001()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:45:58 PDT" name="testCase001" finished-at="2023-11-02T04:46:00 PDT" duration-ms="1756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase001 -->
+        <test-method signature="testCase002()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:00 PDT" name="testCase002" finished-at="2023-11-02T04:46:02 PDT" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase002 -->
+        <test-method signature="testCase003()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:02 PDT" name="testCase003" finished-at="2023-11-02T04:46:03 PDT" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase003 -->
+        <test-method signature="testCase004()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:03 PDT" name="testCase004" finished-at="2023-11-02T04:46:03 PDT" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase004 -->
+        <test-method signature="testCase005()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:03 PDT" name="testCase005" finished-at="2023-11-02T04:46:03 PDT" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase005 -->
+        <test-method signature="testCase006()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:03 PDT" name="testCase006" finished-at="2023-11-02T04:46:06 PDT" duration-ms="2769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase006 -->
+        <test-method signature="testCase007()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:06 PDT" name="testCase007" finished-at="2023-11-02T04:46:08 PDT" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase007 -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:TestCasesDefinations.DemoAppTestCasesExecution@10959ece]" started-at="2023-11-02T04:46:08 PDT" name="afterSuite" finished-at="2023-11-02T04:46:08 PDT" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestCasesDefinations.DemoAppTestCasesExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
