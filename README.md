@@ -22,3 +22,11 @@ In Page Locators Package you will find Locators details of the Each Page : Login
 
 
 In TestCaseDefination Package  you will find all the Test Cases Execution Steps 
+
+
+
+To execute the code Please Run the testng.xml file as a TestNG Suite
+
+
+
+HTML Report Path : target/Spark.html
