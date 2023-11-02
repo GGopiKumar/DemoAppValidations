@@ -24,6 +24,9 @@ In Page Locators Package you will find Locators details of the Each Page : Login
 In TestCaseDefination Package  you will find all the Test Cases Execution Steps 
 
 
+And also I have used Data Driven Approach for acessing the TestData while execution , like URL,UserName,Password
+
+
 
 To execute the code Please Run the testng.xml file as a TestNG Suite
 
