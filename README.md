@@ -2,7 +2,7 @@
 Login Page Validation of a Demo App  
 
 
-Framework  
+<h3>Framework</h3>  
 
 
 Navigate to src\test\Java : Where you will find 3 packages 
@@ -32,11 +32,11 @@ To execute the code Please Run the testng.xml file as a TestNG Suite
 
 
 
-HTML Report Path : target/Spark.html
+<h3>HTML Report Path : target/Spark.html<\h3>
 
 
 
-Test Scenarios used are  :
+<h3>Test Scenarios used are  :</h3>
 
 
 
