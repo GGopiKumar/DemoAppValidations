@@ -30,3 +30,35 @@ To execute the code Please Run the testng.xml file as a TestNG Suite
 
 
 HTML Report Path : target/Spark.html
+
+
+
+Test Scenarios used are  :
+
+
+
+TestCase001: Navigate to DemoApp URL and Validated all the Elements are visible or not like UserName Text Box , PassWord Text Box , Login Button , Remember Me Check Box , Company LOGO , FooterLinks
+
+
+
+TestCase002:Login to Demo App with Multiple UserName and Password (Alpha/Alphanumeric/Special Characters) Formatted , Verify the Login Functionality
+
+
+
+TestCase003:Try to Login to Demo App with valid Username and Password as Empty and verify the alert Popup
+
+
+
+TestCase004:Try to Login to Demo App with valid Password and Username as Empty and verify the alert Popup
+
+
+
+TestCase005:Try to Login to Demo App with Empty Username and Password and verify the alert Popup
+
+
+
+TestCase006:Validation of RememberMe Functionality while Login the DemoApp
+
+
+
+TestCase007:Home Page Account Header Sorting Validation on DemoApp
