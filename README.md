@@ -32,7 +32,7 @@ To execute the code Please Run the testng.xml file as a TestNG Suite
 
 
 
-<h3>HTML Report Path : target/Spark.html</h3>h3>
+<h3>HTML Report Path : target/Spark.html</h3>
 
 
 
