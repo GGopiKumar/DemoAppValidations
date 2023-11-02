@@ -138,7 +138,7 @@ public class Utilities {
 		try {
 			EventFiringWebDriver  efd = new EventFiringWebDriver(Driver);
 			File srcIMG = efd.getScreenshotAs(OutputType.FILE);
-			dstIMG = new File("DemoAppValidations\\src\\test\\Resources\\ScreenShot\\"+getRandomNum()+".png");
+			dstIMG = new File("C:\\Users\\Gopikumar\\eclipse-workspace\\DemoAppValidations\\src\\test\\Resources\\ScreenShot\\"+getRandomNum()+".png");
 			FileUtils.copyFile(srcIMG, dstIMG);
 			
 		}  catch (Exception e) {
